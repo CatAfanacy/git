@@ -30,7 +30,7 @@ public class xmlTask {
     }
 
     public int salaryAverage() {
-        // Средняя зарплата 
+        // Средняя зарплата
         Element elNodeList;
         int salary =0;
         NodeList nodeList = doc.getElementsByTagName("employee");
