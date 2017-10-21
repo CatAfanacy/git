@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><organization name="TransMegaStroi">
+    <department name="Creator">
+        <employee firstname="Ahmet" secondname="Vakoulinko">
+            <hiredate>01-10-2007</hiredate>
+            <salary>50000</salary>
+            <jobtitle value="head"/>
+        </employee>
+
+        <employee firstname="Maria" secondname="Vakoulinko">
+            <hiredate>02-10-2007</hiredate>
+            <salary>75000</salary>
+            <jobtitle value="secretary"/>
+        </employee>
+    </department>
+
+    <department name="Worker">
+        <employee firstname="Samuil" secondname="Vakoulinko">
+            <hiredate>15-10-2007</hiredate>
+            <salary>30000</salary>
+            <jobtitle value="manager"/>
+        </employee>
+
+        <employee firstname="Ekaterina" secondname="Shirokogrudova">
+            <hiredate>16-10-2007</hiredate>
+            <salary>29000</salary>
+            <jobtitle value="secretary"/>
+        </employee>
+
+        <employee firstname="Mikhail" salary="5000" secondname="Sadykov">
+            <hiredate>10-10-2007</hiredate>
+            <salary>5000</salary>
+            <jobtitle value="assistant"/>
+        </employee>
+
+        <employee firstname="Oleg" secondname="Dalmatincev">
+            <hiredate>10-10-2007</hiredate>
+            <salary>20000</salary>
+            <jobtitle value="engineer"/>
+        </employee>
+
+        <employee firstname="Kirill" secondname="Armeitsev">
+            <hiredate>4-10-2017</hiredate>
+            <salary>12341</salary>
+            <jobtitle value="assistant"/>
+        </employee>
+
+
+        <!--        <employee firstname="Kirill" secondname="Armeitsev">
+                    <hiredate>4-10-2017</hiredate>
+                    <salary>12341</salary>
+                    <jobtitle value="assistant"/>
+                </employee>-->
+
+    </department>
+</organization>

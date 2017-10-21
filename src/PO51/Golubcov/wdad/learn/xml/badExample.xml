@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE organization SYSTEM "organization.dtd">
+<organization>
+    <department name="MainOffice">
+        <employee firstname="Marat" secondname="Gulimiev">
+            <hiredate>15-14-2020</hiredate>
+            <salary>1000.2</salary>
+            <jobtitle value="boss"/>
+        </employee>
+
+
+        <employee firstname="Sadral" secondname="Krasavchik">
+            <hiredate>20-2-2000</hiredate>
+            <salary>31235</salary>
+            <jobtitle value="poluboss"/>
+        </employee>
+    </department>
+</organization>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE organization SYSTEM "organization.dtd">
+
+<organization name="VysheNeba">
+    <department name="Moralistov">
+    <department name="Scenaristov">
+    <departments name="Djantalmenov">
+        <employee firstname="Karl" secondname="Understandov">
+        <hiredate>05-05-2007</hiredate>
+        <salary>30561231</salary>
+        <jobtitle value="Nachalnyk"/>
+        <whereWorks> Room number 13 </whereWorks>
+
+        <employee firstname="Karl" secondname="WhyShouldIReadThisov">
+        <hiredate>05-05-2007</hiredate>
+        <salary>-300</salary>
+        <jobtitle value="Traktorist"/>
+        <whereWorks> Traktor red number au 007 e </whereWorks>
+
+        <employee firstname="Karl" secondname="FuckYou'reStudyingHereov">
+            <hiredate>5 may 14</hiredate>
+            <salary>eat</salary>
+            <jobtitle value="Beggar"/>
+            <whereWorks> crossing, near the station, underground </whereWorks>
+
+        </empoloyees>
+
+    </departments>
+
+</organization>
